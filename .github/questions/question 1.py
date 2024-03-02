@@ -1,0 +1,1 @@
+print('hi\nhi\nhi\n')
